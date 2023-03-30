@@ -1,0 +1,6 @@
+{
+  "name": "Nimrod Hunter",
+  "description": "Easily find any email address!",
+  "repository": "https://bitbucket.org/tommyadey/email-finder",
+  "keywords": ["node", "express", "email"]
+}
